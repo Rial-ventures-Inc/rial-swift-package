@@ -1,0 +1,23 @@
+Copyright (c) 2026 Rial Ventures Inc. All rights reserved.
+
+This software (the "SDK") is proprietary to Rial Ventures Inc. ("Rial") and
+distributed solely as a compiled binary for integration into applications
+operated by parties with a valid, active commercial agreement with Rial
+covering use of Rial's photo-verification services. No license is granted
+except as set out in such an agreement.
+
+You may NOT, and may not assist any third party to: (a) reverse engineer,
+decompile, disassemble, or otherwise attempt to derive the SDK's source code
+or underlying structure, except where such restriction is prohibited by
+applicable law; (b) remove or alter proprietary notices in the SDK; (c) use
+the SDK outside a valid commercial agreement with Rial; or (d) redistribute
+the SDK other than as part of an application you control that consumes
+Rial's services.
+
+Patent(s) pending.
+
+THE SDK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL RIAL VENTURES INC. BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY ARISING FROM THE SDK OR ITS USE.
+
+For licensing inquiries, contact legal@get-rial.com.
